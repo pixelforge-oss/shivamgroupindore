@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ACTION NEEDED: replace the domain below once your site is live, then re-upload this file.
+Sitemap: https://www.REPLACE-WITH-YOUR-DOMAIN.in/sitemap.xml
